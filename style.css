@@ -63,3 +63,59 @@ nav li{
 .btn:hover{
     color: blue;
 }
+/* secong section started from here */
+
+.section2-container{
+    margin: 50px 230px;
+   text-align: center;
+   padding: 80px;
+}
+  
+
+
+.info-title{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+.info-discription{
+    font-size: 18px;
+    color: #272727;
+}
+.section2-photos{
+   display: flex;
+   justify-content: space-between;
+}
+/* Support & Delivery section started here */
+
+.support-delivery{ 
+    margin: 50px 230px ;
+    background-color: rgba(39, 39, 39, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    padding: 70px 100px;
+    text-align: center;
+   
+    
+}
+
+.delivery{
+    /* padding: 80px 5px 80px 20px; */
+    align-items: center;
+}
+
+
+
+.support-text{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.support-text:hover{
+    color: blue;
+}
