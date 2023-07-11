@@ -63,7 +63,7 @@ nav li{
 .btn:hover{
     color: blue;
 }
-/* secong section started from here */
+/* second section started from here */
 
 .section2-container{
     margin: 50px 230px;
@@ -80,7 +80,7 @@ nav li{
     color: #272727;
     margin-bottom: 25px;
 }
-.info-discription{
+.info-description{
     font-size: 18px;
     color: rgba(39, 39, 39, 0.60);
     margin-bottom: 50px;
@@ -145,3 +145,79 @@ nav li{
 .support-text:hover{
     color: blue;
 }
+/* second banner section started here */
+
+.banner2-container{
+    /* margin: 50px 230px; */
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.banner2-text{
+    align-items: center;
+    padding: 200px 50px 100px 300px;
+}
+.banner2-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 20px;
+
+}
+.banner2-pera{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+.banner2-photo{
+    padding: 100px 150px 100px 0px;
+}
+.social-container{
+    margin: 50px 70px;
+    padding: 20px 200px;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    text-align: center;
+}
+.social-text{
+    /* font-size: 30px; */
+    align-items: center;
+    
+}
+.social-title{
+    padding-top: 50px;
+    text-decoration: center;
+    font-weight: 800px;
+    font-size: 40px;
+
+}
+.social-pera{
+    padding: 50px 5px;
+    color: #272727;
+    font-size: 18px;
+}
+.social-photo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.pic1{
+    box-shadow: 5px 5px 10px;
+}
+.pic2{
+    box-shadow: 5px 5px 10px;
+}
+.pic3{
+    box-shadow: 5px 5px 10px;
+}
+.pic4{
+    box-shadow: 5px 5px 10px;
+}
+
