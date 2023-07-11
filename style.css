@@ -74,18 +74,44 @@ nav li{
 
 
 .info-title{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
     padding-bottom: 25px;
+    color: #272727;
+    margin-bottom: 25px;
 }
 .info-discription{
     font-size: 18px;
-    color: #272727;
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 50px;
 }
 .section2-photos{
    display: flex;
    justify-content: space-between;
+   align-items: center;
 }
+.picture1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 100px 75px 0px 75px;
+}
+.picture2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 115px 45px 50px 45px;
+}
+.picture3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 100px 75px 0px 75px;
+}
+.picture-pera{
+    margin-top: 30px;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+
 /* Support & Delivery section started here */
 
 .support-delivery{ 
