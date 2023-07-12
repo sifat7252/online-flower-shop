@@ -220,6 +220,39 @@ nav li{
 .pic4{
     box-shadow: 5px 5px 10px;
 }
+/* subscribe page are started from here */
+
+.sub-background{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-position: center;
+    background-image: url("../images/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    /* margin: 100px 50px; */
+    /* margin: auto; */
+    /* padding: 0px 1000px 120px 200px ; */
+   
+
+
+
+}
+#suscribe-btn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+.subscribe-page{
+    /* display: flex; */
+    align-items: center;
+    padding: 0px 120px 0px 800px;
+    text-align: center;
+    /* width: 20%; */
+    /* margin: auto; */
+}
+
 /* footer section started from here */
 .footer-text{
     text-align: center;
